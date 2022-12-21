@@ -28,4 +28,6 @@ If everything goes right, you should see a dashboard of Pokemon metrics. Feel fr
 
 ![image](https://user-images.githubusercontent.com/16984251/208857959-04f32bd2-8c5c-4d1e-93cd-5c69e52b6e64.png)
 
+![image](https://user-images.githubusercontent.com/16984251/208858136-274b9b8e-e7b7-491a-89d8-161b8d2f9a48.png)
+
 ![image](https://user-images.githubusercontent.com/16984251/208858021-e1922584-2d8e-4c77-9133-01029a4234b6.png)
