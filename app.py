@@ -13,7 +13,7 @@ from dash.dependencies import Input, Output
 
 # Keep this out of source code repository - save in a file or a database
 VALID_USERNAME_PASSWORD_PAIRS = {
-    'admin': 'jordan'
+    'admin': 'admin'
 }
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
